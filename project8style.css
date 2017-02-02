@@ -3,7 +3,6 @@ border-collapse:collapse;
 width:650px;
 font:Verdana;
 text-align:center;
-table-margin:center;
 }
 th {
 font-weight:bold; 
@@ -15,5 +14,8 @@ border: 2px dotted blue;
 }
 h1 {
 color:green;
+text-align:center;
+}
+body {
 text-align:center;
 }
