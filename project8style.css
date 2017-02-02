@@ -3,6 +3,7 @@ border-collapse:collapse;
 width:650px;
 font: Verdana;
 text-align:center;
+margin: 25px 50px 75px 100px;
 }
 th {
 font-weight:bold; 
